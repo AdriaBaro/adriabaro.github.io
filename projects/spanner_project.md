@@ -16,7 +16,10 @@ if (isAwesome){
 
 ### METHODOLOGY
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<figure>
+  <img src=images/Spanner_FEM.png alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Finite Element Methodology</figcaption>
+</figure>
 
 ### RESULTS
 
