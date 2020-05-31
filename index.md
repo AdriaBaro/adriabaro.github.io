@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### BSc in Industrial Technology Engineering - Polytechnic University of Catalonia (2014-2018)
 
 [ROULED](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
