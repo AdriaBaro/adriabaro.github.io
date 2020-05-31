@@ -4,8 +4,8 @@
 
 ### BSc in Industrial Technology Engineering - Polytechnic University of Catalonia (2014-2018)
 
-[ROULED](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Design of a torque-limiting spanner](/sample_page)
+<img src="images/Spanner_cover.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
