@@ -16,6 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+<p style="text-align:center"> <a href=/projects/spanner_project.md>Design of a torque-limiting spanner - Continuum Mechanics</a> </p>
 
 ### Category Name 2
 
