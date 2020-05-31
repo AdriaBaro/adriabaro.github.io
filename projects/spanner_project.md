@@ -1,6 +1,4 @@
 # Design of a torque-limiting spanner
-## Continuum Mechanics
-
 
 ### OBJECTIVES
 
