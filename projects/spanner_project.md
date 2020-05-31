@@ -15,12 +15,10 @@ if (isAwesome){
 ```
 
 ### METHODOLOGY
-
 <figure>
-  <img src=images/Spanner_FEM.png alt="Trulli" style="width:100%">
-  <figcaption>Fig.1 - Finite Element Methodology</figcaption>
+  <img src="Spanner_FEM.jpg" alt="FEM analysis" style="width:50%" class="center">
+  <figcaption>Fig.1: FEM anlaysis of the spanner.</figcaption>
 </figure>
-
 ### RESULTS
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
