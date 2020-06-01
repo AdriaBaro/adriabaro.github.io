@@ -19,3 +19,5 @@
 
 <center>[SteemitGuide](https://steemit.com/@steemitguide)
 </center>
+{: .text-center}
+flksngnsglkngs
