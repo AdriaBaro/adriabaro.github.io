@@ -1,6 +1,5 @@
 ## ENGINEERING PORTFOLIO
 ---
-<div align="center">
 
 
 #### MSc in Mechanical Engineering - Technical University of Denmark [DTU] (2019-2021)
@@ -8,7 +7,7 @@
 #### MSc in Industrial Engineering - Polytechnic University of Catalonia [UPC] (2018-2020)
 
 #### BSc in Industrial Technology Engineering - Polytechnic University of Catalonia [UPC] (2014-2018)
-<p style="text-align:center;"><a href="/projects/TFG/text.md">Wood skis optimization through the virtualization of experimental essays <br><i> Bachelor's Thesis</i></a></p>
+<p style="text-align:center;"><a href="/projects/TFG/text.md?raw=true">Wood skis optimization through the virtualization of experimental essays <br><i> Bachelor's Thesis</i></a></p>
 <img src="images/TFG_cover.JPG?raw=true"/>
 <div align="center">
 
@@ -21,12 +20,5 @@
 <div style="text-align: center"> 
   <[SteemitGuide](https://steemit.com/@steemitguide)>
   <a href="/projects/spanner/text.md">Wood skis optimization through the virtualization of experimental essays <br><i> Bachelor's Thesis</i></a>
-</div>
-
-<center>[SteemitGuide](https://steemit.com/@steemitguide)
-</center>
-{: .text-center}
-flksngnsglkngs
-
 </div>
 
