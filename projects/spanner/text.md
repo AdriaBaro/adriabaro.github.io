@@ -23,4 +23,4 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 ### FILES AND LINKS
 <center> <embed src="Design of a torque-limiting spanner.pdf" type="application/pdf" width="100%" height="600px" /> </center> 
 
-[Back to other projects](../index.md)
+[Back to other projects](../../index.md)
