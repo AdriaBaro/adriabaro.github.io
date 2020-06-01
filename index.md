@@ -14,4 +14,4 @@
 <img src="images/Spanner_cover.png?raw=true"/>
 
 ---
-
+[Design of a torque-limiting spanner](/projects/spanner/text.md)
