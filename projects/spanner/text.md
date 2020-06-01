@@ -26,6 +26,5 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ### THE TEAM
 
-### LINKS
-<embed src="Design of a torque-limiting spanner.pdf" type="application/pdf" width="100%" height="600px" />
-<a href="Design of a torque-limiting spanner.pdf">See full report here</a>
+### FILES AND LINKS
+<center> <embed src="Design of a torque-limiting spanner.pdf" type="application/pdf" width="100%" height="600px" /> </center> 
