@@ -18,11 +18,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-<p style="text-align:center;"><a href="http//www.google.com">Search</a><a href="Contact Us">Contact Us</a></p>
+<p style="text-align:center;"><a href="/projects/TFG/text.md">Wood skis optimization through the virtualization of experimental essays - Bachelor's Thesis</a></p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-<p style="text-align:center"> <a href=/projects/spanner_project.md>Design of a torque-limiting spanner - Continuum Mechanics</a> </p>
 
 ### Category Name 2
 
