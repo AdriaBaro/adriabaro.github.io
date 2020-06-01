@@ -1,14 +1,21 @@
 ## ENGINEERING PORTFOLIO
 
 ---
+### MSc in Mechanical Engineering - Technical University of Denmark [DTU] (2019-2021)
 
-### BSc in Industrial Technology Engineering - Polytechnic University of Catalonia (2014-2018)
+### MSc in Industrial Engineering - Polytechnic University of Catalonia [UPC] (2018-2020)
 
-[Design of a torque-limiting spanner - Continuum Mechanics](/projects/spanner_project.md)
+### BSc in Industrial Technology Engineering - Polytechnic University of Catalonia [UPC] (2014-2018)
+
+[Bachelor's Thesis](/projects/TFG/text.md)
+<img src="images/TFG_cover.JPG?raw=true"/>
+
+---
+[Design of a torque-limiting spanner - Continuum Mechanics](/projects/spanner/text.md)
 <img src="images/Spanner_cover.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Bachelor's Thesis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
