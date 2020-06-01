@@ -1,10 +1,12 @@
 ## Design of a torque-limiting spanner
 
+### DESCRIPTION
+
 ### OBJECTIVES
+<div align="justify">
 
 The main objective of the project was to design and prototype a torque-limiting spanner, complying some important restrictions.  Secondary objectives were to minimize the weight and use the right material to manufacture it.
-
-### PROJECT DESCRIPTION
+</div>
 
 
 ### METHODOLOGY
