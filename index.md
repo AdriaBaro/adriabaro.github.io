@@ -10,8 +10,9 @@
 <img src="images/TFG_cover.JPG?raw=true"/>
 
 ---
-<p style="text-align:center;">Design of a torque-limiting spanner <br><i> Continuum Mechanics</i></p>
+<p style="text-align:center;"><b>Design of a torque-limiting spanner </b><br><i> Continuum Mechanics</i></p>
 <img src="images/Spanner_cover.png?raw=true"/>
 [View project details](/projects/spanner/text.md)
 
 ---
+<div style="text-align: right"> your-text-here </div>
