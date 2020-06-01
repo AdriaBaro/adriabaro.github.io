@@ -25,3 +25,7 @@ if (isAwesome){
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ### THE TEAM
+
+### LINKS
+<embed src="Design of a torque-limiting spanner.pdf" type="application/pdf" width="100%" height="600px" />
+<a href="Design of a torque-limiting spanner.pdf">See full report here</a>
