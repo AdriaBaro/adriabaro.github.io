@@ -1,4 +1,4 @@
-# Design of a torque-limiting spanner
+## Design of a torque-limiting spanner
 
 ### OBJECTIVES
 
