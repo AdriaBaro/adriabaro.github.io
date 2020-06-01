@@ -15,7 +15,9 @@
 [View project details](/projects/spanner/text.md)
 
 ---
-<div style="text-align: right"> your-text-here </div>
+<div style="text-align: center"> 
+  <[SteemitGuide](https://steemit.com/@steemitguide)>
+</div>
 
 <center>[SteemitGuide](https://steemit.com/@steemitguide)
 </center>
