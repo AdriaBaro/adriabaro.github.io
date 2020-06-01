@@ -15,10 +15,3 @@
 [View project details](/projects/spanner/text.md)
 
 ---
-[Design of a torque-limiting spanner](/projects/spanner/text.md)
-
-<p style="text-align: center;"><a [Design of a torque-limiting spanner](/projects/spanner/text.md)></a> </p>
-
-<a href="/projects/spanner/text.md">Spanner</a>
-
-<p style="text-align:center;"><a [Design of a torque-limiting spanner](/projects/spanner/text.md) </a></p>
