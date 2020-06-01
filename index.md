@@ -10,7 +10,7 @@
 <img src="images/TFG_cover.JPG?raw=true"/>
 
 ---
-<p style="text-align:center;"><a href="/projects/spanner/text.md">Design of a torque-limiting spanner <br><i> Continuum Mechanics</i></a></p>
+<p style="text-align:center;"><a src="/projects/spanner/text.md">Design of a torque-limiting spanner <br><i> Continuum Mechanics</i></a></p>
 <img src="images/Spanner_cover.png?raw=true"/>
 
 ---
