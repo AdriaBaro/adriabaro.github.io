@@ -25,6 +25,6 @@ if (isAwesome){
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ### THE TEAM
-
+<a href="https://www.linkedin.com/in/jorgerodriguezllorens/">Jorge Rodríguez Llorens</a> 
 ### FILES AND LINKS
 <center> <embed src="Design of a torque-limiting spanner.pdf" type="application/pdf" width="100%" height="600px" /> </center> 
