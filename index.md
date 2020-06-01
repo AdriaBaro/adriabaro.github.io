@@ -6,8 +6,7 @@
 ### MSc in Industrial Engineering - Polytechnic University of Catalonia [UPC] (2018-2020)
 
 ### BSc in Industrial Technology Engineering - Polytechnic University of Catalonia [UPC] (2014-2018)
-
-[Bachelor's Thesis](/projects/TFG/text.md)
+[Wood skis optimization through the virtualization of experimental essays - Bachelor's Thesis](/projects/TFG/text.md)
 <img src="images/TFG_cover.JPG?raw=true"/>
 
 ---
@@ -19,7 +18,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+<p style="text-align:center;"><a href="http//www.google.com">Search</a><a href="Contact Us">Contact Us</a></p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -28,15 +27,4 @@
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
----
-
-
-
-
----
-<!-- Remove above link if you don't want to attibute -->
