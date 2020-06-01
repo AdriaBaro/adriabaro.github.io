@@ -1,7 +1,7 @@
 ## Design of a torque-limiting spanner
 
 ### DESCRIPTION
-
+The project was part of the course *Continuum Mechanics* in which the fundamentals of materials' elasticity and resistance were studied and applied. The project combined 
 ### OBJECTIVES
 <div align="justify">
 
