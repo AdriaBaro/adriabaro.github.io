@@ -16,8 +16,8 @@ if (isAwesome){
 
 ### METHODOLOGY
 <center><figure>
-  <img src="Spanner_FEM.jpg" alt="FEM analysis" style="width:50%" class="center">
-  <figcaption>Fig.1: FEM anlaysis of the spanner.</figcaption>
+  <img src="Spanner_FEM.jpg" alt="FEM analysis" style="width:70%" class="center">
+  <figcaption>Fig.1: FEM anlaysis of the spanner</figcaption>
 </figure></center>
 
 ### RESULTS
