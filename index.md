@@ -16,3 +16,6 @@
 
 ---
 <div style="text-align: right"> your-text-here </div>
+
+<center>[SteemitGuide](https://steemit.com/@steemitguide)
+</center>
