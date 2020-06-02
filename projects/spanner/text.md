@@ -2,7 +2,7 @@
 
 ### DESCRIPTION
 
-The project was part of the course *Continuum Mechanics* in which the fundamentals of materials' elasticity and resistance were studied and applied. The project included material selection, finite element methods (FEM), design optimization and prototyping.
+The project was part of the course *Continuum Mechanics* in which the fundamentals of materials' elasticity and resistance were studied and applied. Even thogh finite element methods (FEM) was the core of the project, it also included material selection, design optimization and prototyping. 
 
 ### OBJECTIVES
 
@@ -18,8 +18,9 @@ The material needed to fulfil several specifications, i.e. having a suitable You
   <figcaption>Fig.1: Material selection using CES EduPack</figcaption>
 </figure></center>
 After several considerations and talking with different companies, Aluminium T651 was choosen.
+
 ##### FEM
-The FEM was the core of the project. It started by
+This part started with a preliminar design 
 
 <center><figure>
   <img src="Spanner_sketch.png" alt="FEM analysis" style="width:70%" class="center">
