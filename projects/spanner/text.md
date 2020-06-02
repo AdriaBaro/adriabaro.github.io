@@ -1,25 +1,22 @@
 ## Design of a torque-limiting spanner
 
 ### DESCRIPTION
-<div align="justify">
-The project was part of the course <i>Continuum Mechanics</i> in which the fundamentals of materials' elasticity and resistance were studied and applied. Even thogh finite element methods (FEM) was the core of the project, it also included material selection, design optimization and prototyping. 
-</div>
-<p></p>
-### OBJECTIVES
-<div align="justify">
-The main objective of the project was to design and prototype a torque-limiting spanner, complying some important restrictions.  Secondary objectives were to minimize the weight and use the right material and process to manufacture it.
-</div>
 
-<p></p>
+The project was part of the course *Continuum Mechanics* in which the fundamentals of materials' elasticity and resistance were studied and applied. Even thogh finite element methods (FEM) was the core of the project, it also included material selection, design optimization and prototyping. 
+
+### OBJECTIVES
+
+The main objective of the project was to design and prototype a torque-limiting spanner, complying some important restrictions.  Secondary objectives were to minimize the weight and use the right material and process to manufacture it.
+
 ### METHODOLOGY
-<div align="justify">
+
 The project started with some research on the spanner dimensioning, regulations, materials and manufacturing processes. The main steps and the tools used are summarized below:
-</div>
+
 
 ##### MATERIAL SELECTION
-<div align="justify">
-The material needed to fulfil several specifications, i.e. having a suitable Young's modulus or being recyclable. Other properties such as the price, isotropy or manufacturability were also considered. To choose the most appropriate material for the spanner, CES EduPack software was used.  As it is shown in <i>Fig.1</i>, the software showed the best materials which fulfilled all the requirements. 
-</div>
+
+The material needed to fulfil several specifications, i.e. having a suitable Young's modulus or being recyclable. Other properties such as the price, isotropy or manufacturability were also considered. To choose the most appropriate material for the spanner, CES EduPack software was used.  As it is shown in *Fig.1*, the software showed the best materials which fulfilled all the requirements. 
+
 <center><figure>
   <img src="Spanner_materials.png" alt="Material selection using CES EduPack" style="width:90%" class="center">
   <figcaption>Fig.1: Material selection using CES EduPack</figcaption>
