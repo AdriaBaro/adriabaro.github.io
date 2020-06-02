@@ -61,7 +61,7 @@ Finally, the protoype was tested in the lab to validate all the previous work. T
 
 ### THE TEAM
 This project was performed with two fellow students of the same degree. Each of us was involved in all the parts. 
-The members of the team were: 
+The members of the team were:
 <a href="https://www.linkedin.com/in/jorgerodriguezllorens/">Jorge Rodríguez Llorens</a><br>
 Ignacio Sánchez Zárate
 
