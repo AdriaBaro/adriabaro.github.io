@@ -25,13 +25,19 @@ This part started with a preliminary design which complied with the design solic
   <img src="Spanner_sketch.png" alt="Preliminary design drawing" style="width:70%" class="center">
   <figcaption>Fig.2: Preliminary design drawing</figcaption>
 </figure></center>
-This 
+This first design was modelled and analyzed using ANSYS, one of the most popular FEM programmes. Once the suitable analysis configuration was set (boundary conditions, mesh and forces), the results were obtained. The analyzed results were the displacement, stress distributions and Von Mises stresses, see *Fig.3*. Using the required safety factor, the design was finally approved.
+
+<center><figure>
+  <img src="Spanner_FEM_1.jpg" alt="FEM anlaysis of the preliminary design" style="width:70%" class="center">
+  <figcaption>Fig.1: FEM anlaysis of the preliminary design</figcaption>
+</figure></center>
+
+##### DESIGN OPTIMIZATION
 <center><figure>
   <img src="Spanner_FEM.jpg" alt="FEM analysis" style="width:70%" class="center">
   <figcaption>Fig.1: FEM anlaysis of the spanner</figcaption>
 </figure></center>
 
-##### DESIGN OPTIMIZATION
 <center><figure>
   <img src="Spanner_optimization.png" alt="FEM analysis" style="width:80%" class="center">
   <figcaption>Fig.1: FEM anlaysis of the spanner</figcaption>
