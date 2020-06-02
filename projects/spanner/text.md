@@ -33,7 +33,7 @@ This
 
 ##### DESIGN OPTIMIZATION
 <center><figure>
-  <img src="Spanner_optimization.png" alt="FEM analysis" style="width:70%" class="center">
+  <img src="Spanner_optimization.png" alt="FEM analysis" style="width:80%" class="center">
   <figcaption>Fig.1: FEM anlaysis of the spanner</figcaption>
 </figure></center>
 
