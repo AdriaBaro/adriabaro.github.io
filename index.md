@@ -16,3 +16,8 @@
 [View project details](/projects/spanner/text.md)
 
 ---
+<p>
+<a href="/projects/spanner/text.md">
+<img border="0" alt="W3Schools" src="images/Spanner_cover.png">
+</a>
+</p>
