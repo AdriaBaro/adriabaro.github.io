@@ -46,8 +46,8 @@ Due to the specified restrictions, the torque-limiting spanner needed to fail on
 
 On the other hand, each iteration also tried to reduce the weight of the spanner by removing material in those parts where the stresses were low and not critical for its functionality. The design evolution is presented in *Fig.5.*.
 <center><figure>
-  <img src="Spanner_optimization.png" alt="Spanner design evolution" style="width:80%" class="center">
-  <figcaption>Fig.5: Spanner design evolution r</figcaption>
+  <img src="Spanner_optimization.png" alt="Evolution of the spanner design" style="width:80%" class="center">
+  <figcaption>Fig.5: Evolution of the spanner design</figcaption>
 </figure></center>
 
 ### PROTOTYPE AND RESULTS
