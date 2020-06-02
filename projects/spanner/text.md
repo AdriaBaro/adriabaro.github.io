@@ -8,7 +8,7 @@ The project was part of the course <i>Continuum Mechanics</i> in which the funda
 
 ### OBJECTIVES
 
-<div align="align">
+<div align="justify">
 The main objective of the project was to design and prototype a torque-limiting spanner, complying some important restrictions.  Secondary objectives were to minimize the weight and use the right material and process to manufacture it.
 </div>
 
@@ -32,8 +32,8 @@ This part started with a preliminary design which complied with the design solic
 This first design was modelled and analyzed using ANSYS, one of the most popular FEM programmes. Once the suitable analysis configuration was set (boundary conditions, mesh and forces), the results were obtained. The analyzed results were the displacement, stress distributions and Von Mises stresses, see *Fig.3* as an example.
 
 <center><figure>
-  <img src="Spanner_FEM_1.jpg" alt="FEM anlaysis of the preliminary design" style="width:70%" class="center">
-  <figcaption>Fig.1: FEM anlaysis of the preliminary design</figcaption>
+  <img src="Spanner_FEM_1.jpg" alt="Preliminary design FEM anlaysis" style="width:70%" class="center">
+  <figcaption>Fig.1: Preliminary design FEM anlaysis</figcaption>
 </figure></center>
 
 ##### DESIGN OPTIMIZATION
