@@ -16,8 +16,3 @@
 [View project details](/projects/spanner/text.md)
 
 ---
-<div style="text-align: center"> 
-  <[SteemitGuide](https://steemit.com/@steemitguide)>
-  <a href="/projects/spanner/text.md">Wood skis optimization through the virtualization of experimental essays <br><i> Bachelor's Thesis</i></a>
-</div>
-
