@@ -18,7 +18,7 @@ The project started with some research on the spanner dimensioning, regulations,
 ##### MATERIAL SELECTION
 The material needed to fulfil several specifications, i.e. having a suitable Young's modulus or being recyclable. Other properties such as the price, isotropy or manufacturability were also considered. To choose the most appropriate material for the spanner, CES EduPack software was used.  As it is shown in *Fig.1*, the software showed the best materials which fulfilled all the requirements. 
 <center><figure>
-  <img src="Spanner_materials.png" alt="Material selection using CES EduPack" style="width:70%" class="center">
+  <img src="Spanner_materials.png" alt="Material selection using CES EduPack" style="width:90%" class="center">
   <figcaption>Fig.1: Material selection using CES EduPack</figcaption>
 </figure></center>
 After several considerations and talking with different companies, Aluminium T651 was choosen.
