@@ -52,11 +52,13 @@ On the other hand, each iteration also tried to reduce the weight of the spanner
 </figure></center>
 
 ### PROTOTYPE AND RESULTS
+
 The final design of the torque-limiting spanner was protoyped. It was manufactured using a water jet cutting machine, thanks to the company [AMARI METALS IBERICA, S.L.](https://www.aalco.es/) that accepted to collaborate with the project. The prototype can be observed in *Fig.6.*.
 <center><figure>
   <img src="Spanner_prototype.jpeg" alt="Spanner protoype<" style="width:70%" class="center">
   <figcaption>Fig.6: Spanner protoype</figcaption>
 </figure></center>
+Finally, the protoype was tested in the lab to validate all the previous work. The spanner failed at the specified torque during the failure test, proving that the design process and calculations were correct.
 
 ### THE TEAM
 This project was performed with two fellow students of the same degree. Each of us was involved in all the parts. 
