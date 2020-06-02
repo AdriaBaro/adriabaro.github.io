@@ -4,7 +4,8 @@
 
 <div align="justify">
 The project was part of the course <i>Continuum Mechanics</i> in which the fundamentals of materials' elasticity and resistance were studied and applied. Even thogh finite element methods (FEM) was the core of the project, it also included material selection, design optimization and prototyping. 
-</div>
+</div><br>
+
 
 ### OBJECTIVES
 
