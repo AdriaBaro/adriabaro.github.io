@@ -10,13 +10,16 @@ The project was part of the course <i>Continuum Mechanics</i> in which the funda
 The main objective of the project was to design and prototype a torque-limiting spanner, complying some important restrictions.  Secondary objectives were to minimize the weight and use the right material and process to manufacture it.
 </div>
 
+<p></p>
 ### METHODOLOGY
 <div align="justify">
 The project started with some research on the spanner dimensioning, regulations, materials and manufacturing processes. The main steps and the tools used are summarized below:
 </div>
 
 ##### MATERIAL SELECTION
-The material needed to fulfil several specifications, i.e. having a suitable Young's modulus or being recyclable. Other properties such as the price, isotropy or manufacturability were also considered. To choose the most appropriate material for the spanner, CES EduPack software was used.  As it is shown in *Fig.1*, the software showed the best materials which fulfilled all the requirements. 
+<div align="justify">
+The material needed to fulfil several specifications, i.e. having a suitable Young's modulus or being recyclable. Other properties such as the price, isotropy or manufacturability were also considered. To choose the most appropriate material for the spanner, CES EduPack software was used.  As it is shown in <i>Fig.1</i>, the software showed the best materials which fulfilled all the requirements. 
+</div>
 <center><figure>
   <img src="Spanner_materials.png" alt="Material selection using CES EduPack" style="width:90%" class="center">
   <figcaption>Fig.1: Material selection using CES EduPack</figcaption>
@@ -33,7 +36,7 @@ This first design was modelled and analyzed using ANSYS, one of the most popular
 
 <center><figure>
   <img src="Spanner_FEM_1.jpg" alt="Preliminary design FEM anlaysis" style="width:70%" class="center">
-  <figcaption>Fig.1: Preliminary design FEM anlaysis</figcaption>
+  <figcaption>Fig.3: Preliminary design FEM anlaysis</figcaption>
 </figure></center>
 
 ##### DESIGN OPTIMIZATION
