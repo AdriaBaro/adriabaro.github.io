@@ -1,13 +1,13 @@
 ## Design of a torque-limiting spanner
 
 ### DESCRIPTION
-
+<div align="center">
 The project was part of the course *Continuum Mechanics* in which the fundamentals of materials' elasticity and resistance were studied and applied. Even thogh finite element methods (FEM) was the core of the project, it also included material selection, design optimization and prototyping. 
-
+</div>
 ### OBJECTIVES
-
+<div align="center">
 The main objective of the project was to design and prototype a torque-limiting spanner, complying some important restrictions.  Secondary objectives were to minimize the weight and use the right material and process to manufacture it.
-
+</div>
 ### METHODOLOGY
 The project started with some research on the spanner dimensioning, regulations, materials and manufacturing processes. The main steps and the tools used are summarized below:
 
