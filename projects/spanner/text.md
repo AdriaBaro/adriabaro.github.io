@@ -12,21 +12,20 @@ The main objective of the project was to design and prototype a torque-limiting 
 The project started with some research on the spanner dimensioning, regulations, materials and manufacturing processes. The main steps and the tools used are summarized below:
 
 ##### MATERIAL SELECTION
-The material needed to fulfil several specifications, i.e. having a suitable Young's modulus or being recyclable. Other properties such as the price, isotropy or manufacturability were also considered. To choose the most appropriate material for the spanner, CES EduPack software was used.  As it is shown in Fig.1, the software showed the best materials which fulfilled all the requirements.
+The material needed to fulfil several specifications, i.e. having a suitable Young's modulus or being recyclable. Other properties such as the price, isotropy or manufacturability were also considered. To choose the most appropriate material for the spanner, CES EduPack software was used.  As it is shown in *Fig.1*, the software showed the best materials which fulfilled all the requirements. 
 <center><figure>
-  <img src="Spanner_materials.png" alt="Material selection using CES EduPack" style="width:50%" class="center">
+  <img src="Spanner_materials.png" alt="Material selection using CES EduPack" style="width:70%" class="center">
   <figcaption>Fig.1: Material selection using CES EduPack</figcaption>
 </figure></center>
 After several considerations and talking with different companies, Aluminium T651 was choosen.
 
 ##### FEM
-This part started with a preliminar design 
-
+This part started with a preliminary design which complied with the design solicitations, see *Fig.2.*
 <center><figure>
-  <img src="Spanner_sketch.png" alt="FEM analysis" style="width:70%" class="center">
-  <figcaption>Fig.2: Spanner sketch</figcaption>
+  <img src="Spanner_sketch.png" alt="Preliminary design drawing" style="width:70%" class="center">
+  <figcaption>Fig.2: Preliminary design drawing</figcaption>
 </figure></center>
-
+This 
 <center><figure>
   <img src="Spanner_FEM.jpg" alt="FEM analysis" style="width:70%" class="center">
   <figcaption>Fig.1: FEM anlaysis of the spanner</figcaption>
