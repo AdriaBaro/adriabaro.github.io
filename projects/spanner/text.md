@@ -11,11 +11,10 @@ The main objective of the project was to design and prototype a torque-limiting 
 </div>
 
 ### METHODOLOGY
-<br>
 <div align="justify">
 The project started with some research on the spanner dimensioning, regulations, materials and manufacturing processes. The main steps and the tools used are summarized below:
 </div>
-<br>
+
 ##### MATERIAL SELECTION
 The material needed to fulfil several specifications, i.e. having a suitable Young's modulus or being recyclable. Other properties such as the price, isotropy or manufacturability were also considered. To choose the most appropriate material for the spanner, CES EduPack software was used.  As it is shown in *Fig.1*, the software showed the best materials which fulfilled all the requirements. 
 <center><figure>
