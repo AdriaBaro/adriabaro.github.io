@@ -1,13 +1,17 @@
 ## Design of a torque-limiting spanner
 
 ### DESCRIPTION
+
 <div align="align">
 The project was part of the course *Continuum Mechanics* in which the fundamentals of materials' elasticity and resistance were studied and applied. Even thogh finite element methods (FEM) was the core of the project, it also included material selection, design optimization and prototyping. 
 </div>
+
 ### OBJECTIVES
+
 <div align="align">
 The main objective of the project was to design and prototype a torque-limiting spanner, complying some important restrictions.  Secondary objectives were to minimize the weight and use the right material and process to manufacture it.
 </div>
+
 ### METHODOLOGY
 The project started with some research on the spanner dimensioning, regulations, materials and manufacturing processes. The main steps and the tools used are summarized below:
 
@@ -25,7 +29,7 @@ This part started with a preliminary design which complied with the design solic
   <img src="Spanner_sketch.png" alt="Preliminary design drawing" style="width:70%" class="center">
   <figcaption>Fig.2: Preliminary design drawing</figcaption>
 </figure></center>
-This first design was modelled and analyzed using ANSYS, one of the most popular FEM programmes. Once the suitable analysis configuration was set (boundary conditions, mesh and forces), the results were obtained. The analyzed results were the displacement, stress distributions and Von Mises stresses, see *Fig.3*. Using the required safety factor, the design was finally approved.
+This first design was modelled and analyzed using ANSYS, one of the most popular FEM programmes. Once the suitable analysis configuration was set (boundary conditions, mesh and forces), the results were obtained. The analyzed results were the displacement, stress distributions and Von Mises stresses, see *Fig.3*.
 
 <center><figure>
   <img src="Spanner_FEM_1.jpg" alt="FEM anlaysis of the preliminary design" style="width:70%" class="center">
