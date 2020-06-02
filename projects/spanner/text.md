@@ -29,7 +29,7 @@ This part started with a preliminary design which complied with the design solic
   <img src="Spanner_sketch.png" alt="Preliminary design drawing" style="width:70%" class="center">
   <figcaption>Fig.2: Preliminary design drawing</figcaption>
 </figure></center>
-This first design was modelled and analyzed using ANSYS, one of the most popular FEM programmes. Once the suitable analysis configuration was set (boundary conditions, mesh and forces), the results were obtained. The analyzed results were the displacement, stress distributions and Von Mises stresses, see *Fig.3*.
+This first design was modelled and analyzed using ANSYS, one of the most popular FEM programmes. Once the suitable analysis configuration was set (boundary conditions, mesh and forces), the results were obtained. The analyzed results were the displacement, stress distributions and Von Mises stresses, see *Fig.3* as an example.
 
 <center><figure>
   <img src="Spanner_FEM_1.jpg" alt="FEM anlaysis of the preliminary design" style="width:70%" class="center">
@@ -37,21 +37,25 @@ This first design was modelled and analyzed using ANSYS, one of the most popular
 </figure></center>
 
 ##### DESIGN OPTIMIZATION
+
+Due to the specified restrictions, the torque-limiting spanner needed to fail once a certain torque value was achieved. To obtain the desired design, up to 6 iterations of FEM analysis and redesign were carried out. The final design FEM analysis is shown in *Fig.4*.
+
 <center><figure>
-  <img src="Spanner_FEM.jpg" alt="FEM analysis" style="width:70%" class="center">
-  <figcaption>Fig.1: FEM anlaysis of the spanner</figcaption>
+  <img src="Spanner_FEM.jpg" alt="Final design FEM anlaysis" style="width:70%" class="center">
+  <figcaption>Fig.4: Final design FEM anlaysis</figcaption>
 </figure></center>
 
+On the other hand, each iteration also tried to reduce the weight of the spanner by removing material in those parts where the stresses were low and not critical for its functionality. The design evolution is presented in *Fig.5.*.
 <center><figure>
-  <img src="Spanner_optimization.png" alt="FEM analysis" style="width:80%" class="center">
-  <figcaption>Fig.1: FEM anlaysis of the spanner</figcaption>
+  <img src="Spanner_optimization.png" alt="Spanner design evolution" style="width:80%" class="center">
+  <figcaption>Fig.5: Spanner design evolution r</figcaption>
 </figure></center>
 
-### RESULTS
-
+### PROTOTYPE AND RESULTS
+The final design of the torque-limiting spanner was protoyped. It was manufactured using a water jet cutting machine, thanks to the company [AMARI METALS IBERICA, S.L.](https://www.aalco.es/) that accepted to collaborate with the project. The prototype can be observed in *Fig.6.*.
 <center><figure>
-  <img src="Spanner_prototype.jpeg" alt="FEM analysis" style="width:70%" class="center">
-  <figcaption>Fig.2: Spanner protoype</figcaption>
+  <img src="Spanner_prototype.jpeg" alt="Spanner protoype<" style="width:70%" class="center">
+  <figcaption>Fig.6: Spanner protoype</figcaption>
 </figure></center>
 
 ### THE TEAM
