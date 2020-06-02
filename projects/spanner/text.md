@@ -25,13 +25,13 @@ After several considerations and talking with different companies, Aluminium T65
 ##### FEM
 This part started with a preliminary design which complied with the design solicitations, see *Fig.2.*
 <center><figure>
-  <img src="Spanner_sketch.png" alt="Preliminary design drawing" style="width:70%" class="center">
+  <img src="Spanner_sketch.png" alt="Preliminary design drawing" style="width:80%" class="center">
   <figcaption>Fig.2: Preliminary design drawing</figcaption>
 </figure></center>
 This first design was modelled and analyzed using ANSYS, one of the most popular FEM programmes. Once the suitable analysis configuration was set (boundary conditions, mesh and forces), the results were obtained. The analyzed results were the displacement, stress distributions and Von Mises stresses, see *Fig.3* as an example.
 
 <center><figure>
-  <img src="Spanner_FEM_1.jpg" alt="Preliminary design FEM anlaysis" style="width:70%" class="center">
+  <img src="Spanner_FEM_1.jpg" alt="Preliminary design FEM anlaysis" style="width:80%" class="center">
   <figcaption>Fig.3: Preliminary design FEM anlaysis</figcaption>
 </figure></center>
 
@@ -40,7 +40,7 @@ This first design was modelled and analyzed using ANSYS, one of the most popular
 Due to the specified restrictions, the torque-limiting spanner needed to fail once a certain torque value was achieved. To obtain the desired design, up to 6 iterations of FEM analysis and redesign were carried out. The final design FEM analysis is shown in *Fig.4*.
 
 <center><figure>
-  <img src="Spanner_FEM.jpg" alt="Final design FEM anlaysis" style="width:70%" class="center">
+  <img src="Spanner_FEM.jpg" alt="Final design FEM anlaysis" style="width:85%" class="center">
   <figcaption>Fig.4: Final design FEM anlaysis</figcaption>
 </figure></center>
 
