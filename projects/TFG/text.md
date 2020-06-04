@@ -13,7 +13,7 @@ src="https://www.youtube.com/embed?v=GyFxTksXt-E">
 </iframe>
 
 <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://youtu.be/GyFxTksXt-E"
+  src="https://youtu.be/embed/GyFxTksXt-E"
   frameborder="0"></iframe>
 
 
