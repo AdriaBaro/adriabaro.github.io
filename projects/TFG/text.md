@@ -1,10 +1,10 @@
 ## Wood skis optimization through the virtualization of experimental essays
 ### DESCRIPTION
-
-
+This project was the thesis for the BSc in Industrial Engineering. It was carried out in collaboration with [Liken Skis](https://www.likenskis.com/en/), a start-up that designs and manufactures high-performance and handcrafted wood skis. The thesis was supervised by [Xavier Ayneto Gubert](https://www.linkedin.com/in/xayneto/),  a well-known senior professor at UPC with 40+ years of experience.
 
 ### OBJECTIVES
-
+The main objective of the project was to define and work with a methodology to optimize a wood skis model. The optimization intended to reduce its weight without performance or features loss.
+Secondary goals of the project were to apply design of experiments (DOE), execute lab tests and virtualize experimental essays using FEM-analysis
 
 ### METHODOLOGY
 
