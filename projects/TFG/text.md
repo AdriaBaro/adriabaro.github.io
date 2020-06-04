@@ -8,13 +8,7 @@ Secondary goals of the project were to execute lab tests, apply design of experi
 
 ### METHODOLOGY
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed?v=GyFxTksXt-E">
-</iframe>
-
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://youtu.be/embed/GyFxTksXt-E"
-  frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyFxTksXt-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ##### MATERIAL SELECTION
