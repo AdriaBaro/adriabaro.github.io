@@ -9,9 +9,12 @@
 ### METHODOLOGY
 
 <iframe width="420" height="315"
-src="https://youtu.be/GyFxTksXt-E">
+src="https://www.youtube.com/embed?v=GyFxTksXt-E">
 </iframe>
 
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://youtu.be/GyFxTksXt-E"
+  frameborder="0"></iframe>
 
 
 ##### MATERIAL SELECTION
