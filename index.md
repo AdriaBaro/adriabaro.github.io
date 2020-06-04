@@ -7,7 +7,7 @@
 #### MSc in Industrial Engineering - Polytechnic University of Catalonia [UPC] (2018-2020)
 <p style="text-align:center;"><b>Design of an industrial building</b><br><i> Construction Systems</i></p>
 <img src="images/construs_cover.JPG?raw=true"/>
-[View project details](/projects/construs/text1.md)
+[View project details](/projects/construs/text.md)
 
 ---
 <p style="text-align:center;"><b>Implementation of a nonwoven fabric industrial plant</b><br><i> Constructions and Industrial Architecture</i></p>
@@ -19,7 +19,7 @@
 #### BSc in Industrial Technology Engineering - Polytechnic University of Catalonia [UPC] (2014-2018)
 <p style="text-align:center;"><b>Wood skis optimization through the virtualization of experimental essays</b><br><i> Bachelor's Thesis</i></p>
 <img src="images/TFG_cover.JPG?raw=true"/>
-[View project details](/projects/spanner/text1.md)
+[View project details](/projects/TFG/text.md)
 
 ---
 <p style="text-align:center;"><b>Design of a torque-limiting spanner </b><br><i> Continuum Mechanics</i></p>
