@@ -32,6 +32,7 @@ After several considerations and talking with different companies, Aluminium T65
 
 
 ### FILES AND LINKS
-<center> <embed src="Design of a torque-limiting spanner.pdf" type="application/pdf" width="100%" height="600px" /> </center> 
+[Link to official Bachelor's Thesis document](https://upcommons.upc.edu/handle/2117/127991)
+<center> <embed src="tfgadriabaro.pdf" type="application/pdf" width="100%" height="600px" /> </center> 
 
 [Back to other projects](../../index.md)
