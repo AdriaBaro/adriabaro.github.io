@@ -63,7 +63,7 @@ Finally, the protoype was tested in the lab to validate all the previous work. T
 This project was performed with two fellow students of the same degree. Each of us was involved in all the parts. 
 The members of the team were:
 <a href="https://www.linkedin.com/in/jorgerodriguezllorens/">Jorge Rodríguez Llorens</a><br>
-Ignacio Sánchez Zárate
+<a href="https://www.linkedin.com/in/ignacio-sanchez-478723139/">Ignacio Sánchez Zárate</a><br>
 
 ### FILES AND LINKS
 <center> <embed src="Design of a torque-limiting spanner.pdf" type="application/pdf" width="100%" height="600px" /> </center> 
