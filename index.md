@@ -3,7 +3,16 @@
 
 
 #### MSc in Mechanical Engineering - Technical University of Denmark [DTU] (2019-2021)
+<p style="text-align:center;"><b>Danfoss solenoid valves product program</b><br><i> Technology, platforms and architectures</i></p>
+<img src="images/TPA_cover.jpg?raw=true"/>
+[View project details](/projects/TPA/text.md)
 
+---
+<p style="text-align:center;"><b>Robustness of Toyota’s acceleration pedal</b><br><i> Robust design of products and mechanisms</i></p>
+<img src="images/RD_cover.jpg?raw=true"/>
+[View project details](/projects/RD/text.md)
+
+---
 #### MSc in Industrial Engineering - Polytechnic University of Catalonia [UPC] (2018-2020)
 <p style="text-align:center;"><b>Design of an industrial building</b><br><i> Construction Systems</i></p>
 <img src="images/construs_cover.PNG?raw=true"/>
