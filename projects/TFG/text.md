@@ -1,6 +1,6 @@
 ## Wood skis optimization through the virtualization of experimental essays
 ### DESCRIPTION
-This project was the thesis for the BSc in Industrial Engineering. It was carried out in collaboration with [Liken Skis](https://www.likenskis.com/en/), a start-up that designs and manufactures high-performance and handcrafted wood skis. The thesis was supervised by [Xavier Ayneto Gubert](https://www.linkedin.com/in/xayneto/),  a well-known senior professor at UPC with 40+ years of experience.
+This project was the thesis for the BSc in Industrial Engineering (18 ECTS). It was carried out in collaboration with [Liken Skis](https://www.likenskis.com/en/), a start-up that designs and manufactures high-performance and handcrafted wood skis. The thesis was supervised by [Xavier Ayneto Gubert](https://www.linkedin.com/in/xayneto/),  a well-known senior professor at UPC with 40+ years of experience.
 
 ### OBJECTIVES
 The main objective of the project was to define and work with a methodology to optimize a wood skis model. The optimization intended to reduce its weight without performance or features loss.
@@ -29,19 +29,20 @@ Apart from defining the model, setting a suitable mesh, boundary condition and f
 <br>
 
 ##### DESIGN OF EXPERIMENTS (DOE) AND OPTIMIZATION
+The final part of the project combined DOE with FEM simulations. The input variables were three geometric parameters of the skis, see *Fig.2*, and the responses were the weight of the skis and the maximum deformation and stress. The factorial design was composed of 8 different simulations, experiments.
 <center><figure>
   <img src="TFG_parameters.JPG" alt="Geometric parameters used in the DOE" style="width:110%" class="center">
   <figcaption>Fig.2: Geometric parameters used in the DOE</figcaption>
 </figure></center>
 
+### RESULTS AND CONCLUSIONS
+Finally, the results were analysed and conclusions were drawn. The statistical analysis was intended to minimize the weight of the skis while keeping, or even improving, the maximum deformation and stresses of the initial design. Several plots were obtained, for instance, the cube plot presented in *Fig.3.* which is showing the weight of the skis when different geometric parameters are combined.
+
 <center><figure>
   <img src="TFG_DOE.JPG" alt="Cube plot with a factorial design" style="width:110%" class="center">
   <figcaption>Fig.3: Cube plot with a factorial design</figcaption>
 </figure></center>
-
-### RESULTS AND CONCLUSIONS
-
-
+The final result was a new design which reduced 4% of the total weight, 0.5% of maximum deformation reduction and just a 2% of maximum stress increment.
 
 ### FILES AND LINKS
 [Link to official Bachelor's Thesis document](https://upcommons.upc.edu/handle/2117/127991)
