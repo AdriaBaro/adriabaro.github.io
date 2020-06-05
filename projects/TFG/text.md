@@ -14,7 +14,10 @@ The project started with research in anisotropic materials and its characterizat
 <iframe width="100%" height="200px" src="https://www.youtube.com/embed/GyFxTksXt-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-
+<div class="video_wrapper">
+<iframe frameborder="0" width="100%" height="100%" src="https://www.youtube.com/embed/GyFxTksXt-E" allowfullscreen allow="autoplay">
+</iframe></div>
+<br>
 ##### FEM
 <center><figure>
   <img src="TFG_ANSYS_1.JPG" alt="Modelled skis for the FEM analysis" style="width:90%" class="center">
