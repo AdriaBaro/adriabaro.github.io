@@ -23,15 +23,15 @@ The second part of the project was to set a model of the wood skis and define th
   <figcaption>Fig.1: Modelled skis for the FEM analysis using ANSYS</figcaption>
 </figure></center>
 
-Apart from defining the model, setting a suitable mesh, boundary condition and forces involved was a demanding task. Finally, the model was simulated. This first results can be observed in the video below:
+Apart from defining the model, setting a suitable mesh, boundary condition and forces involved was a demanding task. Finally, the model was simulated. These first results can be observed in the video below:
 
 <iframe width="100%" height="280px" src="TFG_ANSYS_v1.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 ##### DESIGN OF EXPERIMENTS (DOE) AND OPTIMIZATION
-The final part of the project combined DOE with FEM simulations. The input variables were three geometric parameters of the skis, see *Fig.2*, and the responses were the weight of the skis and the maximum deformation and stress. The factorial design was composed of 8 different simulations, experiments.
+The final part of the project combined DOE with FEM simulations. The input variables were three geometric parameters of the skis, see *Fig.2*, and the responses were the weight of the skis and the maximum deformation and stress. The factorial design was composed of 8 different simulations, experiments, that were carried out using the before explained FEM model.
 <center><figure>
-  <img src="TFG_parameters.JPG" alt="Geometric parameters used in the DOE" style="width:110%" class="center">
+  <img src="TFG_parameters.JPG" alt="Geometric parameters used in the DOE" style="width:120%" class="center">
   <figcaption>Fig.2: Geometric parameters used in the DOE</figcaption>
 </figure></center>
 
@@ -39,7 +39,7 @@ The final part of the project combined DOE with FEM simulations. The input varia
 Finally, the results were analysed and conclusions were drawn. The statistical analysis was intended to minimize the weight of the skis while keeping, or even improving, the maximum deformation and stresses of the initial design. Several plots were obtained, for instance, the cube plot presented in *Fig.3.* which is showing the weight of the skis when different geometric parameters are combined.
 
 <center><figure>
-  <img src="TFG_DOE.JPG" alt="Cube plot with a factorial design" style="width:110%" class="center">
+  <img src="TFG_DOE.JPG" alt="Cube plot with a factorial design" style="width:120%" class="center">
   <figcaption>Fig.3: Cube plot with a factorial design</figcaption>
 </figure></center>
 The final result was a new design which reduced 4% of the total weight, 0.5% of maximum deformation reduction and just a 2% of maximum stress increment.
