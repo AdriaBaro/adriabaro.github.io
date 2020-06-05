@@ -17,14 +17,19 @@ The project started with research in anisotropic materials and its characterizat
 
 ##### FEM
 <center><figure>
-  <img src="Spanner_materials.png" alt="Material selection using CES EduPack" style="width:90%" class="center">
+  <img src="TFG_ANSYS_1.JPG" alt="Material selection using CES EduPack" style="width:90%" class="center">
   <figcaption>Fig.1: Material selection using CES EduPack</figcaption>
 </figure></center>
-After several considerations and talking with different companies, Aluminium T651 was choosen.
+
+<iframe width="100%" src="TFG_ANSYS_v1.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 ##### DESIGN OF EXPERIMENTS (DOE) AND OPTIMIZATION
 
-
+<center><figure>
+  <img src="TFG_DOE.JPG" alt="Material selection using CES EduPack" style="width:90%" class="center">
+  <figcaption>Fig.1: Material selection using CES EduPack</figcaption>
+</figure></center>
 
 ### RESULTS AND CONCLUSIONS
 
