@@ -18,7 +18,7 @@ The project started with research in anisotropic materials and its characterizat
 The second part of the project was to set a model of the wood skis and define the simulation for the subsequent DOE. Since the skis are manufactured not only using wood but also glass fibre and epoxy, setting a suitable model was a huge challenge. In *Fig. 1*, the modelled skis can be observed. 
 
 <center><figure>
-  <img src="TFG_ANSYS_1.JPG" alt="Modelled skis for the FEM analysis" style="width:90%" class="center">
+  <img src="TFG_ANSYS_1.JPG" alt="Modelled skis for the FEM analysis" style="width:110%" class="center">
   <figcaption>Fig.1: Modelled skis for the FEM analysis using ANSYS</figcaption>
 </figure></center>
 
@@ -30,7 +30,7 @@ Apart from defining the model, setting a suitable mesh, boundary condition and f
 ##### DESIGN OF EXPERIMENTS (DOE) AND OPTIMIZATION
 
 <center><figure>
-  <img src="TFG_DOE.JPG" alt="Cube plot with a factorial design" style="width:90%" class="center">
+  <img src="TFG_DOE.JPG" alt="Cube plot with a factorial design" style="width:110%" class="center">
   <figcaption>Fig.2: Cube plot with a factorial design</figcaption>
 </figure></center>
 
