@@ -17,7 +17,7 @@ The project started with some research on the spanner dimensioning, regulations,
 The material needed to fulfil several specifications, i.e. having a suitable Young's modulus or being recyclable. Other properties such as the price, isotropy or manufacturability were also considered. To choose the most appropriate material for the spanner, CES EduPack software was used.  As it is shown in *Fig.1*, the software showed the best materials which fulfilled all the requirements. 
 
 <center><figure>
-  <img src="Spanner_materials.png" alt="Material selection using CES EduPack" style="width:90%" class="center">
+  <img src="Spanner_materials.png" alt="Material selection using CES EduPack" style="width:100%" class="center">
   <figcaption>Fig.1: Material selection using CES EduPack</figcaption>
 </figure></center>
 After several considerations and talking with different companies, Aluminium T651 was choosen.
@@ -25,13 +25,13 @@ After several considerations and talking with different companies, Aluminium T65
 ##### FEM
 This part started with a preliminary design which complied with the design solicitations, see *Fig.2.*
 <center><figure>
-  <img src="Spanner_sketch.png" alt="Preliminary design drawing" style="width:80%" class="center">
+  <img src="Spanner_sketch.png" alt="Preliminary design drawing" style="width:100%" class="center">
   <figcaption>Fig.2: Preliminary design drawing</figcaption>
 </figure></center>
 This first design was modelled and analyzed using ANSYS, one of the most popular FEM programmes. Once the suitable analysis configuration was set (boundary conditions, mesh and forces), the results were obtained. The analyzed results were the displacement, stress distributions and Von Mises stresses, see *Fig.3* as an example.
 
 <center><figure>
-  <img src="Spanner_FEM_1.jpg" alt="Preliminary design FEM anlaysis" style="width:80%" class="center">
+  <img src="Spanner_FEM_1.jpg" alt="Preliminary design FEM anlaysis" style="width:100%" class="center">
   <figcaption>Fig.3: Preliminary design FEM anlaysis</figcaption>
 </figure></center>
 
@@ -46,7 +46,7 @@ Due to the specified restrictions, the torque-limiting spanner needed to fail on
 
 On the other hand, each iteration also tried to reduce the weight of the spanner by removing material in those parts where the stresses were low and not critical for its functionality. The design evolution is presented in *Fig.5.*.
 <center><figure>
-  <img src="Spanner_optimization.png" alt="Evolution of the spanner design" style="width:80%" class="center">
+  <img src="Spanner_optimization.png" alt="Evolution of the spanner design" style="width:100%" class="center">
   <figcaption>Fig.5: Evolution of the spanner design</figcaption>
 </figure></center>
 
