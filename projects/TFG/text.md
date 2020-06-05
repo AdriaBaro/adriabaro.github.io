@@ -17,8 +17,8 @@ The project started with research in anisotropic materials and its characterizat
 
 ##### FEM
 <center><figure>
-  <img src="TFG_ANSYS_1.JPG" alt="Material selection using CES EduPack" style="width:90%" class="center">
-  <figcaption>Fig.1: Material selection using CES EduPack</figcaption>
+  <img src="TFG_ANSYS_1.JPG" alt="Modelled skis for the FEM analysis" style="width:90%" class="center">
+  <figcaption>Fig.1: Modelled skis for the FEM analysis</figcaption>
 </figure></center>
 
 <iframe width="100%" height="250px" src="TFG_ANSYS_v1.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,8 +27,8 @@ The project started with research in anisotropic materials and its characterizat
 ##### DESIGN OF EXPERIMENTS (DOE) AND OPTIMIZATION
 
 <center><figure>
-  <img src="TFG_DOE.JPG" alt="Material selection using CES EduPack" style="width:90%" class="center">
-  <figcaption>Fig.1: Material selection using CES EduPack</figcaption>
+  <img src="TFG_DOE.JPG" alt="Cube plot with a factorial design" style="width:90%" class="center">
+  <figcaption>Fig.2: Cube plot with a factorial design</figcaption>
 </figure></center>
 
 ### RESULTS AND CONCLUSIONS
