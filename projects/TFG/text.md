@@ -4,7 +4,8 @@ This project was the thesis for the BSc in Industrial Engineering. It was carrie
 
 ### OBJECTIVES
 The main objective of the project was to define and work with a methodology to optimize a wood skis model. The optimization intended to reduce its weight without performance or features loss.
-Secondary goals of the project were to execute lab tests, apply design of experiments (DOE) and virtualize experimental essays using FEM-analysis.
+
+Secondary goals of the project were to execute lab tests, apply design of experiments (DOE) and virtualize experimental essays using FEM.
 
 ### METHODOLOGY
 
