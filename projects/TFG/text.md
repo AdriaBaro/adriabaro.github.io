@@ -11,7 +11,7 @@ Secondary goals of the project were to execute lab tests, apply design of experi
 ##### WOOD ANISOTROPY AND LAB TESTS
 The project started with research in anisotropic materials and its characterization, specifically wood. This research was used to plan two tests in the lab. These tests intended to characterize the mechanical properties used for manufacturing the skis by finding the experimental values of the Young's modulus (E) and shear modulus (G). One of those tests can be seen in the video below.
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/GyFxTksXt-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="200px" src="https://www.youtube.com/embed/GyFxTksXt-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 
@@ -21,7 +21,7 @@ The project started with research in anisotropic materials and its characterizat
   <figcaption>Fig.1: Material selection using CES EduPack</figcaption>
 </figure></center>
 
-<iframe width="100%" height="100%" src="TFG_ANSYS_v1.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="250px" src="TFG_ANSYS_v1.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 ##### DESIGN OF EXPERIMENTS (DOE) AND OPTIMIZATION
