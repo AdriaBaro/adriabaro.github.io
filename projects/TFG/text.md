@@ -1,6 +1,6 @@
 ## Wood skis optimization through the virtualization of experimental essays
 ### DESCRIPTION
-This project was the thesis for the BSc in Industrial Engineering (18 ECTS). It was carried out in collaboration with [Liken Skis](https://www.likenskis.com/en/),<a href="https://www.likenskis.com/en/" target="_blank"> Liken Skis</a> a start-up that designs and manufactures high-performance and handcrafted wood skis. The thesis was supervised by [Xavier Ayneto Gubert](https://www.linkedin.com/in/xayneto/),  a well-known senior professor at UPC with 40+ years of experience.
+This project was the thesis for the BSc in Industrial Engineering (18 ECTS). It was carried out in collaboration with <a href="https://www.likenskis.com/en/" target="_blank"> Liken Skis</a>, a start-up that designs and manufactures high-performance and handcrafted wood skis. The thesis was supervised by <a href="https://www.linkedin.com/in/xayneto/" target="_blank"> Xavier Ayneto Gubert</a>,  a well-known senior professor at UPC with 40+ years of experience.
 
 ### OBJECTIVES
 The main objective of the project was to define and work with a methodology to optimize a wood skis model. The optimization intended to reduce its weight without performance or features loss.
@@ -45,7 +45,7 @@ Finally, the results were analysed and conclusions were drawn. The statistical a
 The final result was a new design which reduced 4% of the total weight, 0.5% of maximum deformation reduction and just a 2% of maximum stress increment.
 
 ### FILES AND LINKS
-[Link to official Bachelor's Thesis document](https://upcommons.upc.edu/handle/2117/127991)
+<a href="https://upcommons.upc.edu/handle/2117/127991" target="_blank"> Link to official Bachelor's Thesis document</a>
 <center> <embed src="tfgadriabaro.pdf" type="application/pdf" width="100%" height="600px" /> </center> 
 
 ### PROJECT GRADE: 10/10
