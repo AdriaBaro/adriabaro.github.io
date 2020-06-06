@@ -16,7 +16,7 @@ The planned industrial building had to have a realistic production purpose, be p
 
 
 ### FILES AND LINKS
-<center> <embed src="Sistemes Constructius_BSG.pdf" type="application/pdf" width="100%" height="500px" /> </center> 
+<center> <embed src="Sistemes Constructius_BSG.pdf" type="application/pdf" width="100%" height="400px" /> </center> 
 
 ### PROJECT GRADE: 9/10
 [Back to other projects](../../index.md)
