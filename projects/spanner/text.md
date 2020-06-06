@@ -52,7 +52,7 @@ On the other hand, each iteration also tried to reduce the weight of the spanner
 
 ### PROTOTYPE AND RESULTS
 
-The final design of the torque-limiting spanner was protoyped. It was manufactured using a water jet cutting machine, thanks to the company [AMARI METALS IBERICA, S.L.](https://www.aalco.es/) that accepted to collaborate with the project. The prototype can be observed in *Fig.6.*.
+The final design of the torque-limiting spanner was protoyped. It was manufactured using a water jet cutting machine, thanks to the company <a href="https://www.aalco.es/" target="_blank"> AMARI METALS IBERICA, S.L.</a> that accepted to collaborate with the project. The prototype can be observed in *Fig.6.*.
 <center><figure>
   <img src="Spanner_prototype.jpeg" alt="Spanner protoype<" style="width:70%" class="center">
   <figcaption>Fig.6: Spanner protoype</figcaption>
@@ -62,8 +62,8 @@ Finally, the protoype was tested in the lab to validate all the previous work. T
 ### THE TEAM
 This project was performed with two fellow students of the same degree. Each of us was involved in all the parts. 
 The members of the team were:
-<a href="https://www.linkedin.com/in/jorgerodriguezllorens/">Jorge Rodríguez Llorens</a><br>
-<a href="https://www.linkedin.com/in/ignacio-sanchez-478723139/">Ignacio Sánchez Zárate</a><br>
+<a href="https://www.linkedin.com/in/jorgerodriguezllorens/" target="_blank">Jorge Rodríguez Llorens</a><br>
+<a href="https://www.linkedin.com/in/ignacio-sanchez-478723139/" target="_blank">Ignacio Sánchez Zárate</a><br>
 
 ### FILES AND LINKS
 <center> <embed src="Design of a torque-limiting spanner.pdf" type="application/pdf" width="100%" height="600px" /> </center> 
