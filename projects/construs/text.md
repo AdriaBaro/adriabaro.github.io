@@ -10,4 +10,6 @@ The project was the main focus of the *Construction Systems* course.  In this co
 
 ### OBJECTIVES
 The objectives of the project were to apply some construction techniques in a self-designed industrial building.
-The planned industrial building had to have a realistic production purpose, be placed in an existing parcel of land and comply with the planning restrictions of the Municipality.
+The planned industrial building had to have a realistic production purpose, be placed in an existing parcel of land and comply with the planning restrictions of the Municipality. Doing a structural analysis was not part of the project, however, the structure had to be down-to-earth and functional.
+
+### METHODOLOGY
