@@ -13,7 +13,9 @@ The objectives of the project were to apply some construction techniques in a se
 The planned industrial building had to have a realistic production purpose, be placed in an existing parcel of land and comply with the planning restrictions of the Municipality. Doing a structural analysis was not part of the project, however, the structure had to be down-to-earth and functional.
 
 ### METHODOLOGY
+The project started by deciding the industrial activity and the building's placement.  Due to the importance of the automotive industry in Catalonia, it was decided to go for a related industrial activity. One of the main automotive manufacturers is SEAT which is located close to Barcelona. Therefore, it was chosen the industrial plant to be manufacturing automotive carpets for different SEAT models. Moreover, the plant was placed close to the SEAT factory so the distance was kept at a minimum.
 
+Once...
 ### THE TEAM
 This project was performed with two fellow students of the same degree. Each of us was involved in all the parts. 
 The members of the team were:
