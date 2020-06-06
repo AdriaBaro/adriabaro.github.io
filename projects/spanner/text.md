@@ -67,5 +67,6 @@ The members of the team were:
 
 ### FILES AND LINKS
 <center> <embed src="Design of a torque-limiting spanner.pdf" type="application/pdf" width="100%" height="600px" /> </center> 
+
 ### PROJECT GRADE: 8/10
 [Back to other projects](../../index.md)
