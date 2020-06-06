@@ -14,7 +14,7 @@
 
 ---
 #### MSc in Industrial Engineering - Polytechnic University of Catalonia [UPC] (2018-2020)
-<p style="text-align:center;"><b>Design of an industrial building</b><br><i> Construction Systems</i></p>
+<p style="text-align:center;"><b>Planning and design of an industrial building</b><br><i> Construction Systems</i></p>
 <img src="images/construs_cover.PNG?raw=true"/>
 [View project details](/projects/construs/text.md)
 
