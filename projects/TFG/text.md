@@ -47,5 +47,5 @@ The final result was a new design which reduced 4% of the total weight, 0.5% of 
 ### FILES AND LINKS
 [Link to official Bachelor's Thesis document](https://upcommons.upc.edu/handle/2117/127991)
 <center> <embed src="tfgadriabaro.pdf" type="application/pdf" width="100%" height="600px" /> </center> 
-
+### PROJECT GRADE: 10/10
 [Back to other projects](../../index.md)
