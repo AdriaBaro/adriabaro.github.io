@@ -11,7 +11,7 @@ The planned industrial building had to have a realistic production purpose, be p
 The project started by deciding the industrial activity and the building's placement.  Due to the importance of the automotive industry in Catalonia, it was decided to go for a related industrial activity. One of the main automotive manufacturers is SEAT which is located close to Barcelona. Therefore, it was chosen the industrial plant to be manufacturing automotive carpets for different SEAT models. The plant was placed close to the SEAT factory so to reduce the transportation costs.
 
 #### CONSTRUCTION TECHNIQUES
-Once...
+The most important part of the project was to decide the right construction techniques and the materials for the building. The choices were done following the construction order; starting with foundations and main structure, following with the façades and roof and finally, the details such as doors and windows. In *Fig.1*, a visual representation of the structure and the façades can be observed.
 <center><figure>
   <img src="construs_construction.png" alt="Geometric parameters used in the DOE" style="width:120%" class="center">
   <figcaption>Fig.1: Geometric parameters used in the DOE</figcaption>
