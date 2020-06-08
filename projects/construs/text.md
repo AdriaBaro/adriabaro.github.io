@@ -19,7 +19,7 @@ Once...
 
 #### CONSTRUCTION DRAWINGS
 <center><figure>
-  <img src="construs_drawing.png" alt="Geometric parameters used in the DOE" style="width:100%" class="center">
+  <img src="construs_drawing.png" alt="Geometric parameters used in the DOE" style="width:70%" class="center">
   <figcaption>Fig.2: Geometric parameters used in the DOE</figcaption>
 </figure></center>
 
