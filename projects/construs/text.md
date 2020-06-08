@@ -1,9 +1,4 @@
 ## Planning and design of an industrial building
-<center><figure>
-  <img src="../../UnderConstruction.png" alt="UnderConstruction" style="width:100%" class="center">
-</figure></center>
-
-[Back to other projects](../../index.md)
 
 ### DESCRIPTION
 The project was the main focus of the *Construction Systems* course.  In this course, the most used construction techniques for industrial buildings were studied. Also, how to correctly make construction drawings using AutoCAD and to plan and design an industrial building.
@@ -24,7 +19,7 @@ Once...
 
 #### CONSTRUCTION DRAWINGS
 <center><figure>
-  <img src="construs_drawing.png" alt="Geometric parameters used in the DOE" style="width:120%" class="center">
+  <img src="construs_drawing.png" alt="Geometric parameters used in the DOE" style="width:100%" class="center">
   <figcaption>Fig.2: Geometric parameters used in the DOE</figcaption>
 </figure></center>
 
