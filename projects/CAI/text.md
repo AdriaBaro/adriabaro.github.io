@@ -6,6 +6,7 @@
 ## Implementation of a nonwoven fabric industrial plant
 
 ### DESCRIPTION
+The project was the main purpose of the *Constructions and Industrial Architecture* course, at MSc level. This course intended to provide knowledge in the relation between industrial-economic activities and its physical environment together with the industrial building construction. This was to be achieved with theoretical lectures and a practical approach which is showed with this project.
 
 ### THE TEAM
 This project was performed with three fellow students of the same degree. Each of us was involved in all the parts. 
