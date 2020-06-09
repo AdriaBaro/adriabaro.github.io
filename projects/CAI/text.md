@@ -15,7 +15,7 @@ The members of the team were:
 Álvaro Guarner Escribano
 
 ### FILES AND LINKS
-<center> <embed src="CAI_report.pdf" type="application/pdf" width="100%" height="700px" /> </center> 
+<center> <embed src="CAI_report.pdf" type="application/pdf" width="100%" height="400px" /> </center> 
 
-### PROJECT GRADE: 7.5/10
+### PROJECT GRADE: 8/10
 [Back to other projects](../../index.md)
