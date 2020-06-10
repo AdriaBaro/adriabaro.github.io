@@ -8,7 +8,7 @@ The main goal was to implement an industrial building adapted to a specific prod
 
 ### METHODOLOGY
 #### INDUSTRIAL VISIT
-The project started with a visit to the an industrial plant. This company manufactures non-woven fabric rolls for customers in different markets i.e. medical care or home care. During the visit, the company explained to us how the factory is organized, the machines they use, production numbers, etc. Also, we were shown the production line and the different buildings.
+The project started with a visit to the an industrial plant. This company manufactures special fabric rolls for customers in different markets i.e. medical care or home care. During the visit, the company explained to us how the factory is organized, the machines they use, production numbers, etc. Also, we were shown the production line and the different buildings.
 Thanks to the visit and the constant communication with the company, activity, flow, machines and production diagrams were prepared to have a better overview of the industrial plant organization. The machine diagram can be observed in *Fig. 1*.
 <center><figure>
   <img src="CAI_diagram.jpg" alt="Flow diagram" style="width:100%" class="center">
