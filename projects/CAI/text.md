@@ -39,8 +39,8 @@ The members of the team were:
 <a href="https://www.linkedin.com/in/eduardmartinez-mari/" target="_blank">Eduard Martínez-Marí Vall</a><br>
 Álvaro Guarner Escribano
 
-### FILES AND LINKS
-<center> <embed src="CAI_report.pdf" type="application/pdf" width="100%" height="400px" /> </center> 
+### FILES
+
 
 ### PROJECT GRADE: 8/10
 [Back to other projects](../../index.md)
