@@ -1,12 +1,18 @@
-<center><figure>
-  <img src="../../UnderConstruction.png" alt="UnderConstruction" style="width:100%" class="center">
-</figure></center>
-
-[Back to other projects](../../index.md)
 ## Implementation of a nonwoven fabric industrial plant
 
 ### DESCRIPTION
-The project was the main purpose of the *Constructions and Industrial Architecture* course, at MSc level. This course intended to provide knowledge in the relation between industrial-economic activities and its physical environment together with the industrial building construction. This was to be achieved with theoretical lectures and a practical approach which is showed with this project.
+The project was the main purpose of the *Constructions and Industrial Architecture* course, at MSc level. This course intended to provide knowledge in the relation between industrial-economic activities and its physical environment together with the industrial building construction. This was to be achieved with theoretical lectures as well as a more practical approach with the project presented here.
+
+### OBJECTIVES
+The main goal was to implement an industrial building adapted to a specific production process. Secondary goals were to apply the current regulations and draw production, machine and construction drawings using AutoCAD.
+
+### METHODOLOGY
+#### INDUSTRIAL VISIT
+
+#### INDUSTRIAL BUILDING DESIGN
+
+#### DRAWINGS
+
 
 ### THE TEAM
 This project was performed with three fellow students of the same degree. Each of us was involved in all the parts. 
