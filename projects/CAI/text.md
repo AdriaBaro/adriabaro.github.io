@@ -30,7 +30,7 @@ With the different diagrams, machine drawings and taking into account the produc
 </figure></center>
 
 ### RESULTS AND CONCLUSIONS
-The project was concluded with a reflection of which points could be improved and faced drawbacks. It was learned how an industrial plant is organized and the many different things that must be taken into account.
+In this project, it was learned how an industrial plant is organized and the many different things that must be taken into account when designing an industrial building. Also, improving points and faced drawbacks were pointed out.
 
 ### THE TEAM
 This project was performed with three fellow students of the same degree. Each of us was involved in all the parts. 
