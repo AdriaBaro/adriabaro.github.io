@@ -8,11 +8,20 @@ The main goal was to implement an industrial building adapted to a specific prod
 
 ### METHODOLOGY
 #### INDUSTRIAL VISIT
-
+<center><figure>
+  <img src="CAI_diagram.jpg" alt="Preliminary design drawing" style="width:100%" class="center">
+  <figcaption>Fig.1: Preliminary design drawing</figcaption>
+</figure></center>
 #### INDUSTRIAL BUILDING DESIGN
-
+<center><figure>
+  <img src="CAI_machine_drawing.jpg" alt="Preliminary design drawing" style="width:100%" class="center">
+  <figcaption>Fig.2: Preliminary design drawing</figcaption>
+</figure></center>
 #### DRAWINGS
-
+<center><figure>
+  <img src="CAI_drawing.jpg" alt="Preliminary design drawing" style="width:100%" class="center">
+  <figcaption>Fig.3: Preliminary design drawing</figcaption>
+</figure></center>
 
 ### THE TEAM
 This project was performed with three fellow students of the same degree. Each of us was involved in all the parts. 
