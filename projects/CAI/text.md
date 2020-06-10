@@ -14,16 +14,23 @@ Thanks to the visit and constant communication with the company, activity, flow,
   <img src="CAI_diagram.jpg" alt="Flow diagram" style="width:100%" class="center">
   <figcaption>Fig.1: Flow diagram</figcaption>
 </figure></center>
-#### INDUSTRIAL BUILDING DESIGN
+#### INDUSTRIAL BUILDING DESIGN AND DRAWIGNS
+The next step was to draw all the machines involved in the production process to define the space each machine needs to correctly operate or be maintained/repaired. Also, machines' capacity and consumptions were noted. *Fig.2* shows a machine drawing with its characteristics.
+
 <center><figure>
   <img src="CAI_machine_drawing.jpg" alt="Preliminary design drawing" style="width:100%" class="center">
   <figcaption>Fig.2: Preliminary design drawing</figcaption>
 </figure></center>
-#### DRAWINGS
+
+With the different diagrams, machine drawings and taking into account the production drawings and current restrictions an industrial building was designed. The industrial building was supposed to be able to carry all the industrial activity of the company, including the offices, warehouse, etc. However, structural analysis or detailed construction drawings were not required. One of those drawings showing the production line and the warehouses in place can be observed in *Fig.3*.
+
 <center><figure>
   <img src="CAI_drawing.jpg" alt="Preliminary design drawing" style="width:100%" class="center">
   <figcaption>Fig.3: Preliminary design drawing</figcaption>
 </figure></center>
+
+### RESULTS AND CONCLUSIONS
+
 
 ### THE TEAM
 This project was performed with three fellow students of the same degree. Each of us was involved in all the parts. 
