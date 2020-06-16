@@ -46,4 +46,8 @@
 [View project details](/projects/keyband/text.md)
 
 ___
+Thank you for your visiting this page.<br>
+Total visits:
+<div id="sfcq641b5yy7tukdprqbtlsgel82sq3tbzp"></div><script type="text/javascript" src="https://counter1.stat.ovh/private/counter.js?c=q641b5yy7tukdprqbtlsgel82sq3tbzp&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter1.stat.ovh/private/freecounterstat.php?c=q641b5yy7tukdprqbtlsgel82sq3tbzp" border="0" title="website counter" alt="website counter"></a></noscript>
+___
 Copyright © 2020 by Adrià Baró Biosca. All rights reserved.
