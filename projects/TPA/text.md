@@ -1,8 +1,3 @@
-<center><figure>
-  <img src="../../UnderConstruction.png" alt="UnderConstruction" style="width:100%" class="center">
-</figure></center>
-
-[Back to other projects](../../index.md)
 ## Danfoss solenoid valves product program
 
 ### DESCRIPTION
@@ -27,7 +22,11 @@ Another poster summarized the production processes and production flows of the s
 </figure></center>
 This first part of the project ended with a short report pointing out the main insights of the posters. Even more important, improvement areas and goals for the second part were identified.
 #### PART 2: How to improve Danfoss product program?
-
+Based on the identified goals and areas of improvement, an idea catalogue containing a set of solutions was created. Using some new ideas, an improved platform concept was designed. Finally, this new platform concept together with the main benefits, risks and important changes for applying it was summarized using a poster. This poster is presented in *Fig.3*.
+<center><figure>
+  <img src="4_Sales_poster.png" alt="Sales poster for the new platform concept" style="width:80%" class="center">
+  <figcaption>Fig.3: Sales poster for the new platform concept</figcaption>
+</figure></center>
 ### THE TEAM
 This project was performed with a fellow students of the same master. Both of us were involved in all the parts.
 
