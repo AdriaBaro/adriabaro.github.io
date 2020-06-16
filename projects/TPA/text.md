@@ -14,6 +14,11 @@ The first part main objective was to analyze the current [Danfoss](https://www.d
 The second part aimed to propose a new product program based on the identified goals.
 
 ### METHODOLOGY
+#### PART 1: What can Danfoss product program be improved?
+The first part of the project consisted of a deep investigation of Danfoss current product program (market, valves design, production, sales, etc.). After having the right understanding, three posters were elaborated to provide an overview of what Danfoss was offering, to whom and how. The first poster consisted on a Product Family Master Plan (PFMP), showing the link between customer needs and the engineering part of the solenoid valves.
+<a href="1_PFMP_poster.pdf" target="_blank">PFMP poster</a>
+
+#### PART 2: How to improve Danfoss product program?
 
 ### THE TEAM
 This project was performed with a fellow students of the same master. Both of us were involved in all the parts.
