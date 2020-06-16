@@ -60,7 +60,7 @@ The final design of the torque-limiting spanner was protoyped. It was manufactur
 Finally, the protoype was tested in the lab to validate all the previous work. The spanner failed at the specified torque during the failure test, proving that the design process and calculations were correct.
 
 ### THE TEAM
-This project was performed with two fellow students of the same degree. Each of us was involved in all the parts. 
+This project was performed with two fellow students of the same bachelor. Each of us was involved in all the parts. 
 The members of the team were:
 <a href="https://www.linkedin.com/in/jorgerodriguezllorens/" target="_blank">Jorge Rodríguez Llorens</a><br>
 <a href="https://www.linkedin.com/in/ignacio-sanchez-478723139/" target="_blank">Ignacio Sánchez Zárate</a><br>
@@ -68,5 +68,5 @@ The members of the team were:
 ### FILES AND LINKS
 <center> <embed src="Design of a torque-limiting spanner.pdf" type="application/pdf" width="100%" height="600px" /> </center> 
 
-### PROJECT GRADE: 8/10
+### PROJECT GRADE: 8/10 (10-point grading scale, ECTS mark=B+)
 [Back to other projects](../../index.md)
