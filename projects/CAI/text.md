@@ -42,5 +42,8 @@ The members of the team were:
 ### FILES
 Due to confidenciallity agreements the real name of the company as well as the full project is not showed. Also, most of the numbers that can be observed in the figures are randomized.
 
-### PROJECT GRADE: 8/10 (10-point grading scale, ECTS mark=B+)
+### PROJECT GRADE: #### 8/10 (10-point grading scale, ECTS mark=B+)
 [Back to other projects](../../index.md)
+
+___
+Copyright © 2020 by Adrià Baró Biosca. All rights reserved.
