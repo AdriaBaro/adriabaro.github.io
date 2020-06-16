@@ -1,26 +1,8 @@
 title: Adrià Baró Biosca # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-
-<html><style>
-    .image {
-        width: 100%;
-        height: auto;
-        background: url("images/logo_black.png") no-repeat;
-        display: inline-block;
-    }
-    .image:hover {
-        background: url("images/logo.png") no-repeat;
-    }
-</style><\html>
-<a href="#">
-<img src="/images/logo.png?raw=true" 
-onmouseover="this.src='/images/logo_black.png?raw=true'"
-onmouseout="this.src='/images/logo.png?raw=true'"
-border="0" alt=""/></a>
-
+logo: "/images/logo_black.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Recently graduated mechanical engineer with professional experience. Focused in Mechanical Design and
-  Product Development.
+  Soon to be graduated mechanical engineer with professional experience. Focused in Mechanical Design and
+  Product Development. 
   <br><br>
   Currently writing my Master thesis in collaboration with ________ within the field of ________.
   <br><br>
