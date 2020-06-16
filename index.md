@@ -3,12 +3,12 @@
 
 
 #### MSc in Mechanical Engineering - Technical University of Denmark [DTU] (2019-2021)
-<p style="text-align:center;"><b>Danfoss solenoid valves product program</b><br><i> Technology, platforms and architectures</i></p>
+<p style="text-align:center;"><b>Danfoss solenoid valves product program</b><br><i> Technology, Platforms and Architectures</i></p>
 <img src="images/TPA_cover.jpg?raw=true"/>
 [View project details](/projects/TPA/text.md)
 
 ---
-<p style="text-align:center;"><b>Robustness of Toyota’s acceleration pedal</b><br><i> Robust design of products and mechanisms</i></p>
+<p style="text-align:center;"><b>Robustness of Toyota’s acceleration pedal</b><br><i> Robust Design of Products and Mechanisms</i></p>
 <img src="images/RD_cover.jpg?raw=true"/>
 [View project details](/projects/RD/text.md)
 
