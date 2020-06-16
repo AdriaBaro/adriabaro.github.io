@@ -18,7 +18,7 @@ The second part aimed to propose a new product program based on the identified g
 The first part of the project consisted of a deep investigation of Danfoss current product program (market, valves design, production, sales, etc.). After having the right understanding, three posters were elaborated to provide an overview of what Danfoss was offering, to whom and how. The first poster consisted on a Product Family Master Plan (PFMP), showing the link between customer needs and the engineering part of the solenoid valves.
 <a href="1_PFMP_poster.pdf" target="_blank">PFMP poster</a>
 <center><figure>
-  <img src="1_PFMP_poster.png" alt="PFMP poster" style="width:100%" class="center">
+  <img src="1_PFMP_poster-1.png" alt="PFMP poster" style="width:100%" class="center">
   <figcaption>Fig.1: PFMP poster</figcaption>
 </figure></center>
 #### PART 2: How to improve Danfoss product program?
