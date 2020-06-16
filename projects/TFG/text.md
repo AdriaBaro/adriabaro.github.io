@@ -50,3 +50,5 @@ The final result was a new design which reduced 4% of the total weight, 0.5% of 
 
 ### PROJECT GRADE: 10/10 (10-point grading scale, ECTS mark=A+)
 [Back to other projects](../../index.md)
+___
+Copyright © 2020 by Adrià Baró Biosca. All rights reserved.
