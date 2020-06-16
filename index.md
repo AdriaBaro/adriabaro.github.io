@@ -45,4 +45,5 @@
 <img src="images/KeyBand_cover.jpg?raw=true"/>
 [View project details](/projects/keyband/text.md)
 
----
+___
+Copyright © 2008-2018 by Christopher Heng. All rights reserved.
