@@ -1,14 +1,17 @@
 title: Adrià Baró Biosca # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-<style>
+
+<html><style>
     .card {
+        width: 190px;
+        height: 190px;
         background: url("images/logo_black.png") no-repeat;
         display: inline-block;
     }
     .card:hover {
         background: url("images/logo.png") no-repeat;
     }
-</style>
+</style><\html>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Recently graduated mechanical engineer with professional experience. Focused in Mechanical Design and
   Product Development.
