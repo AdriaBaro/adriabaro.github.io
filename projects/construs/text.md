@@ -35,5 +35,6 @@ The members of the team were:
 
 ### PROJECT GRADE: 9/10 (10-point grading scale, ECTS mark=A)
 [Back to other projects](../../index.md)
+
 ___
 Copyright © 2020 by Adrià Baró Biosca. All rights reserved.
