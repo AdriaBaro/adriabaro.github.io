@@ -16,7 +16,8 @@ The second part aimed to propose a new product program based on the identified g
 ### METHODOLOGY
 
 ### THE TEAM
-This project was performed with a fellow students of the same master. Each of us was involved in all the parts. 
+This project was performed with a fellow students of the same master. Both of us were involved in all the parts.
+
 <a href="https://www.linkedin.com/in/susana-osborne-valenzuela/" target="_blank">Susana Osborne Valenzuela</a><br>
 
 ### PROJECT GRADE: 10/12 (7-point grading scale, ECTS mark=B)
