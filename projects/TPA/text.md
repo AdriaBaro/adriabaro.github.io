@@ -19,7 +19,7 @@ The first part of the project consisted of a deep investigation of Danfoss curre
 
 <a href="1_PFMP_poster.pdf" target="_blank">PFMP poster</a>
 <center><figure>
-  <img src="1_PFMP_poster-1.png" alt="PFMP poster" style="width:100%" class="center">
+  <img src="1_PFMP_poster-1.png" alt="PFMP poster" style="width:80%" class="center">
   <figcaption>Fig.1: PFMP poster</figcaption>
 </figure></center>
 #### PART 2: How to improve Danfoss product program?
