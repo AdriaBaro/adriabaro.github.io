@@ -46,4 +46,4 @@
 [View project details](/projects/keyband/text.md)
 
 ___
-Copyright © 2008-2018 by Christopher Heng. All rights reserved.
+Copyright © 2020 by Adrià Baró Biosca. All rights reserved.
