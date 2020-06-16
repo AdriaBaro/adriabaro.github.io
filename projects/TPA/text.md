@@ -22,7 +22,7 @@ The first part of the project consisted of a deep investigation of Danfoss curre
 </figure></center>
 Another poster summarized the production processes and production flows of the solenoid valves. The last poster presented the solenoid valves market and the customer needs in different regions. This last poster is shown in *Fig.2*.
 <center><figure>
-  <img src="2_Market_poster.png	" alt="Market poster" style="width:80%" class="center">
+  <img src="2_Market_poster.png" alt="Market poster" style="width:80%" class="center">
   <figcaption>Fig.2: Market poster</figcaption>
 </figure></center>
 This first part of the project ended with a short report pointing out the main insights of the posters. Even more important, improvement areas and goals for the second part were identified.
