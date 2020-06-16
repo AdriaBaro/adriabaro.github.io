@@ -15,13 +15,17 @@ The second part aimed to propose a new product program based on the identified g
 
 ### METHODOLOGY
 #### PART 1: What can Danfoss product program be improved?
-The first part of the project consisted of a deep investigation of Danfoss current product program (market, valves design, production, sales, etc.). After having the right understanding, three posters were elaborated to provide an overview of what Danfoss was offering, to whom and how. The first poster consisted on a Product Family Master Plan (PFMP), showing the link between customer needs and the engineering part of the solenoid valves.
-
-<a href="1_PFMP_poster.pdf" target="_blank">PFMP poster</a>
+The first part of the project consisted of a deep investigation of Danfoss current product program (market, valves design, production, sales, etc.). After having the right understanding, three posters were elaborated to provide an overview of what Danfoss was offering, to whom and how. One of the posters consisted on a Product Family Master Plan (PFMP), showing the link between customer needs and the engineering part of the solenoid valves. That poster is shown in *Fig.1*.
 <center><figure>
   <img src="1_PFMP_poster-1.png" alt="PFMP poster" style="width:80%" class="center">
   <figcaption>Fig.1: PFMP poster</figcaption>
 </figure></center>
+Another poster summarized the production processes and production flows of the solenoid valves. The last poster presented the solenoid valves market and the customer needs in different regions. This last poster is shown in *Fig.2*.
+<center><figure>
+  <img src="2_Market_poster.png	" alt="Market poster" style="width:80%" class="center">
+  <figcaption>Fig.2: Market poster</figcaption>
+</figure></center>
+This first part of the project ended with a short report pointing out the main insights of the posters. Even more important, improvement areas and goals for the second part were identified.
 #### PART 2: How to improve Danfoss product program?
 
 ### THE TEAM
