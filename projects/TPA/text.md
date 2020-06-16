@@ -39,5 +39,6 @@ This project was performed with a fellow students of the same master. Both of us
 
 ### PROJECT GRADE: 10/12 (7-point grading scale, ECTS mark=B)
 [Back to other projects](../../index.md)
+
 ___
 Copyright © 2020 by Adrià Baró Biosca. All rights reserved.
