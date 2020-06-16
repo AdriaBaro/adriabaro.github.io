@@ -16,10 +16,8 @@ The second part aimed to propose a new product program based on the identified g
 ### METHODOLOGY
 
 ### THE TEAM
-This project was performed with a fellow students of the same degree. Each of us was involved in all the parts. 
-The members of the team were:
-<a href="https://www.linkedin.com/in/nataliagimenovidal/" target="_blank">Natalia Gimeno Vidal</a><br>
-<a href="https://www.linkedin.com/in/nacho-sarri%C3%B3-mercad%C3%A9-9180b5ba/" target="_blank">Nacho Sarrió Mercadé</a><br>
+This project was performed with a fellow students of the same master. Each of us was involved in all the parts. 
+<a href="https://www.linkedin.com/in/susana-osborne-valenzuela/" target="_blank">Susana Osborne Valenzuela</a><br>
 
 ### PROJECT GRADE: 10/12 (7-point grading scale, ECTS mark=B)
 [Back to other projects](../../index.md)
