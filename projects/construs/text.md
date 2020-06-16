@@ -25,7 +25,7 @@ On the other hand, the industrial building had to be drawn using AutoCAD followi
 </figure></center>
 
 ### THE TEAM
-This project was performed with two fellow students of the same degree. Each of us was involved in all the parts. 
+This project was performed with two fellow students of the same master. Each of us was involved in all the parts. 
 The members of the team were:
 <a href="https://www.linkedin.com/in/nataliagimenovidal/" target="_blank">Natalia Gimeno Vidal</a><br>
 <a href="https://www.linkedin.com/in/nacho-sarri%C3%B3-mercad%C3%A9-9180b5ba/" target="_blank">Nacho Sarrió Mercadé</a><br>
@@ -33,5 +33,5 @@ The members of the team were:
 ### FILES AND LINKS
 <center> <embed src="Sistemes Constructius_BSG.pdf" type="application/pdf" width="100%" height="400px" /> </center> 
 
-### PROJECT GRADE: 9/10
+### PROJECT GRADE: 9/10 (10-point grading scale, ECTS mark=A)
 [Back to other projects](../../index.md)
