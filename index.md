@@ -8,7 +8,7 @@
 [View project details](/projects/TPA/text.md)
 
 ---
-<p style="text-align:center;"><b>Robustness of Toyota’s acceleration pedal</b><br><i> Robust Design of Products and Mechanisms</i></p>
+<p style="text-align:center;"><b>Robustness of Toyota acceleration pedal</b><br><i> Robust Design of Products and Mechanisms</i></p>
 <img src="images/RD_cover.jpg?raw=true"/>
 [View project details](/projects/RD/text.md)
 
