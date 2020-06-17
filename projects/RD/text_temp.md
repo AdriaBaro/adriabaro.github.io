@@ -1,4 +1,4 @@
-## Robustness of Toyota’s acceleration pedal
+## Robustness of Toyota acceleration pedal
 
 ### DESCRIPTION
 This project was one of the three assignments of the
