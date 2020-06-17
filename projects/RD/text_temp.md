@@ -4,7 +4,7 @@
 This project was one of the three assignments of the
 
 ### OBJECTIVES
-
+<a href="https://www.cbsnews.com/news/toyota-unintended-acceleration-has-killed-89/" target="_blank"> Toyota acceleration pedal</a>
 ### METHODOLOGY
 
 ### CONCLUSIONS
