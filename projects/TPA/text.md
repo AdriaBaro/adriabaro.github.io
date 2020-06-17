@@ -5,7 +5,7 @@ This project was the core of the *Technology, Platforms and Architectures* cours
 
 ### OBJECTIVES
 The project was divided into two differentiated parts, each one having its objectives.
-The first part objective was to analyze the current [Danfoss](https://www.danfoss.com/en/) product program for the solenoid valves and identify improvement areas and goals for the future.
+The first part objective was to analyze the current <a href="https://www.danfoss.com/en/" target="_blank"> Danfoss</a> product program for the solenoid valves and identify improvement areas and goals for the future.
 The second part aimed to propose a new product program based on the identified goals.
 
 ### METHODOLOGY
