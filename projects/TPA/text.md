@@ -1,7 +1,7 @@
 ## Danfoss solenoid valves product program
 
 ### DESCRIPTION
-This project was the core of the *Technology, Platforms and Architectures* course, at a MSc level. This course provided the tools and knowledge to correctly analyse a product assortment (platforms, architectures, configurators, knowledge-, data-, and product life management systems). Also, to identify goals for platform and architecture improvement. All the knowledge was tried to be applied in this real project.
+This project was the core of *Technology, Platforms and Architectures* course, at a MSc level. This course provided the tools and knowledge to correctly analyse a product assortment (platforms, architectures, configurators, knowledge-, data-, and product life management systems). Also, to identify goals for platform and architecture improvement. All the knowledge was tried to be applied in this real project.
 
 ### OBJECTIVES
 The project was divided into two differentiated parts, each one having its objectives.
