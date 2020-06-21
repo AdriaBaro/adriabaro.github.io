@@ -20,7 +20,7 @@ The members of the team were:
 <a href="https://www.linkedin.com/in/saeid-pieki-3a5a8a84/" target="_blank">Saeid Pieki</a><br>
 <a href="https://www.linkedin.com/in/susana-osborne-valenzuela/" target="_blank">Susana Osborne Valenzuela</a><br>
 
-### PROJECT GRADE: ?/12 (7-point grading scale, ECTS mark=?)
+### PROJECT GRADE: 10/12 (7-point grading scale, ECTS mark=B)
 [Back to other projects](../../index.md)
 
 ___
