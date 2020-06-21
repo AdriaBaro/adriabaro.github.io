@@ -4,7 +4,7 @@
 This project was one of the three assignments of the *Robust Design of Products and Mechanisms* course, at MSc level. The course provided a robust design toolbox that allows for an analysis and improvement of the robustness during product development. So to obtain products less sensible to variation effects, improving its quality and reliability.
 
 ### OBJECTIVES
-The objective of the project was to investigate, and try to improve, the robustness of the Toyota acceleration pedal. This pedal was widely recalled for causing many accidents due to <a href="https://www.cbsnews.com/news/toyota-unintended-acceleration-has-killed-89/" target="_blank">("unintended accelerations")</a>.
+The objective of the project was to investigate, and try to improve, the robustness of the Toyota acceleration pedal. This pedal was widely recalled for causing many accidents due to (<a href="https://www.cbsnews.com/news/toyota-unintended-acceleration-has-killed-89/" target="_blank">"unintended accelerations"</a>).
 
 ### METHODOLOGY
 
