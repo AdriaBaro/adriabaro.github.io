@@ -32,7 +32,7 @@ Finally, a Six Sigma approach was used together with Monte Carlo simulations to 
 The project offered a great overview of how the robustness of a product can be assessed using different tools. Also, how the sources of variation can be spotted and reduced not only by more traditional methods but also by using Tolerance Design principles.
 
 ### THE TEAM
-This project was performed with three fellow students of the same master. Each of us was involved in all the parts.
+This project was performed with four fellow students of the same master. Each of us was involved in all the parts.
 The members of the team were:
 
 <a href="https://www.linkedin.com/in/rasmus-gottenborg-kajb%C3%A6k-063128149/" target="_blank">Rasmus Gottenborg Kajbæk</a><br>
