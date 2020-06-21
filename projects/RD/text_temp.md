@@ -7,22 +7,25 @@ This project was one of the three assignments of the *Robust Design of Products 
 The objective of the project was to investigate, and try to improve, the robustness of the Toyota acceleration pedal. This pedal was widely recalled for causing many accidents due to (<a href="https://www.cbsnews.com/news/toyota-unintended-acceleration-has-killed-89/" target="_blank">"unintended accelerations"</a>). Also, to use quantitative stack-up analysis as well as specify suitable tolerances so to ensure functionality and producibility.
 
 ### METHODOLOGY
-#### TOLERANCE ANALYSIS 
+#### TOLERANCE ANALYSIS
+The project started by understanding the acceleration pedal mechanism and with a discussion on possible product failures, variation influences, and part variation. Then, some tolerance, engineering fit and statistical analyses using the production drawings of the acceleration pedal were conducted. An example of tolerance analysis is shown in *Fig.1*. 
 <center><figure>
   <img src="RD_tolerance_analysis.png" alt="Tolerance analysis" style="width:100%" class="center">
   <figcaption>Fig.1: Tolerance analysis</figcaption>
 </figure></center>
-
+A reflection of the tolerances and specifications was included and considered in further steps of the project.
 #### TOLERANCE REDESIGN
+In the second part of the project drawbacks of the current redesign were identified. Using Tolerance Design principles, a redesign of the pedal was proposed to reduce the effect of variation, hence to increase its robustness. The proposed redesign was sketched as displayed in *Fig.2*.
 <center><figure>
   <img src="RD_redesign.png" alt="Redesign proposal for Toyota acceleration pedal" style="width:100%" class="center">
   <figcaption>Fig.2: Redesign proposal for Toyota acceleration pedal</figcaption>
 </figure></center>
-
+This redesign, as well as the initial design, were later analysed with a sensitivity analysis. This analysis demonstrated that the redesign was eliminating some sources of variation.
 #### SIX SIGMA ANALYSIS
+Finally, a Six Sigma approach was used together with Monte Carlo simulations to calculate the number of defects in productions. Different models with different assumptions were simulated. One of the simulations is presented in *Fig.3*.
 <center><figure>
-  <img src="RD_SixSigma.png" alt="Statistical Tolerancing using Monte Carlo simulation" style="width:100%" class="center">
-  <figcaption>Fig.3: Statistical Tolerancing using Monte Carlo simulation</figcaption>
+  <img src="RD_SixSigma.png" alt="Defect rate prediction using Monte Carlo simulation" style="width:100%" class="center">
+  <figcaption>Fig.3: Defect rate prediction using Monte Carlo simulation</figcaption>
 </figure></center>
 
 ### CONCLUSIONS
