@@ -7,6 +7,23 @@ This project was one of the three assignments of the *Robust Design of Products 
 The objective of the project was to investigate, and try to improve, the robustness of the Toyota acceleration pedal. This pedal was widely recalled for causing many accidents due to (<a href="https://www.cbsnews.com/news/toyota-unintended-acceleration-has-killed-89/" target="_blank">"unintended accelerations"</a>). Also, to use quantitative stack-up analysis as well as specify suitable tolerances so to ensure functionality and producibility.
 
 ### METHODOLOGY
+#### TOLERANCE ANALYSIS 
+<center><figure>
+  <img src="RD_tolerance_analysis.png" alt="Market poster" style="width:100%" class="center">
+  <figcaption>Fig.1: Market poster</figcaption>
+</figure></center>
+
+#### TOLERANCE REDESIGN
+<center><figure>
+  <img src="RD_redesign.png" alt="Market poster" style="width:100%" class="center">
+  <figcaption>Fig.2: Market poster</figcaption>
+</figure></center>
+
+#### SIX SIGMA ANALYSIS
+<center><figure>
+  <img src="RD_SixSigma.png" alt="Market poster" style="width:100%" class="center">
+  <figcaption>Fig.3: Market poster</figcaption>
+</figure></center>
 
 ### CONCLUSIONS
 
