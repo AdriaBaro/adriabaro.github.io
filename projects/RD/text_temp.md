@@ -9,20 +9,20 @@ The objective of the project was to investigate, and try to improve, the robustn
 ### METHODOLOGY
 #### TOLERANCE ANALYSIS 
 <center><figure>
-  <img src="RD_tolerance_analysis.png" alt="Market poster" style="width:100%" class="center">
-  <figcaption>Fig.1: Market poster</figcaption>
+  <img src="RD_tolerance_analysis.png" alt="Tolerance analysis" style="width:100%" class="center">
+  <figcaption>Fig.1: Tolerance analysis</figcaption>
 </figure></center>
 
 #### TOLERANCE REDESIGN
 <center><figure>
-  <img src="RD_redesign.png" alt="Market poster" style="width:100%" class="center">
-  <figcaption>Fig.2: Market poster</figcaption>
+  <img src="RD_redesign.png" alt="Redesign proposal for Toyota acceleration pedal" style="width:100%" class="center">
+  <figcaption>Fig.2: Redesign proposal for Toyota acceleration pedal</figcaption>
 </figure></center>
 
 #### SIX SIGMA ANALYSIS
 <center><figure>
-  <img src="RD_SixSigma.png" alt="Market poster" style="width:100%" class="center">
-  <figcaption>Fig.3: Market poster</figcaption>
+  <img src="RD_SixSigma.png" alt="Statistical Tolerancing using Monte Carlo simulation" style="width:100%" class="center">
+  <figcaption>Fig.3: Statistical Tolerancing using Monte Carlo simulation</figcaption>
 </figure></center>
 
 ### CONCLUSIONS
